@@ -1,10 +1,8 @@
-import 'dart:html';
-
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
-  var name = "LProject";
-  var day = 2;
+  final String name = "LProject";
+   final int day = 2;
 
   @override
   Widget build(BuildContext context) {
