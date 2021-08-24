@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
   final String name = "LProject";
-   final int day = 2;
+  final int day = 2;
 
   @override
   Widget build(BuildContext context) {
